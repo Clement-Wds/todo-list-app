@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-list-ynov/static/css/main.e6c13ad2.css",
+    "main.js": "/todo-list-ynov/static/js/main.7664c274.js",
+    "static/js/787.b6086cd3.chunk.js": "/todo-list-ynov/static/js/787.b6086cd3.chunk.js",
+    "static/media/baissetatete.mp4": "/todo-list-ynov/static/media/baissetatete.72631e7a665103048120.mp4",
+    "index.html": "/todo-list-ynov/index.html",
+    "main.e6c13ad2.css.map": "/todo-list-ynov/static/css/main.e6c13ad2.css.map",
+    "main.7664c274.js.map": "/todo-list-ynov/static/js/main.7664c274.js.map",
+    "787.b6086cd3.chunk.js.map": "/todo-list-ynov/static/js/787.b6086cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7664c274.js"
+  ]
+}
