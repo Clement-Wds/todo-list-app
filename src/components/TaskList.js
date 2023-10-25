@@ -112,6 +112,18 @@ function TaskList() {
 }
 
 // Titre
+const TaskListOverlay = styled.div`
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); // Fond transparent pour le texte
+  z-index: 1; /* Assurez-vous que le contenu est au-dessus de la vidéo en arrière-plan */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`;
 const StyledTitle = styled.h1`
   font-size: 24px;
   text-align: center;
@@ -152,7 +164,7 @@ const TaskItem = styled.li`
 
 // Champ de texte pour les tâches
 const TaskInput = styled.input`
-  width: 90%;
+  width: 95%;
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 5px;
