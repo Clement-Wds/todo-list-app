@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import VideoToDisplay from "../videos/baissetatete.mp4"; // Importez la vidéo depuis le répertoire videos
+import VideoToDisplay from "../videos/182970.mp4"; // Importez la vidéo depuis le répertoire videos
 
 const VideoWrapper = styled.div`
   position: absolute;

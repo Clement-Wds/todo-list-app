@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+"homepage": "https://fazeur95.github.io/todo-list-ynov",
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+git remote add origin https://github.com/Fazeur95/todo-list-ynov.git
